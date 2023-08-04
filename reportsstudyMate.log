@@ -1,0 +1,5 @@
+2023-06-23 21:35:39 INFO  LoginSteps:23 - Usersakydin.tashmurzaev.kk@gmail.com is on login page 
+2023-06-23 21:35:40 INFO  LoginSteps:31 - User entered email: sakydin.tashmurzaev.kk@gmail.com
+2023-06-23 21:35:41 INFO  LoginSteps:38 - User entered pasword: sakydin.tashmurzaev.kk@gmail.com
+2023-06-23 21:35:41 INFO  LoginSteps:44 - User clicked on login button
+2023-06-23 21:35:41 INFO  LoginSteps:49 - Waiting for 3 seconds
