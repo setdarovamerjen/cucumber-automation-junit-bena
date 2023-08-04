@@ -8,7 +8,7 @@ import org.junit.Assert;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Blackjack_steps {
+public class Blackjack_stepsTest {
     Response response;
     boolean shuffled;
     String deckId;

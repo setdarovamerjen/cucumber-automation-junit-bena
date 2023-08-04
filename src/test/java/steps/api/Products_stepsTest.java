@@ -7,7 +7,7 @@ import utilities.ApiRunner;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Products_steps {
+public class Products_stepsTest {
 
     @Given("user hits get all products api with {string} params page {int} and size {int}")
     public void user_hits_get_all_products_api_with_params_page_and_size(String path, int page, int size) {
