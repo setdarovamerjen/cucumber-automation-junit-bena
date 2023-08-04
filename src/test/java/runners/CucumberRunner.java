@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
         glue = "steps/ui",
         features = "src/test/resources/features/ui",
         //tags="@getNotes",
-        dryRun = true
+        dryRun = false
 )
 
 public class CucumberRunner {

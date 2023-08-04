@@ -1,3 +1,4 @@
+@api
 Feature: Verifying for blackjack
 
   Scenario: Verify shuffle and remaining services
